@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Ashi Bandara</h1>
+<h1 align="center">Hello there 😇, I'm Ashi Bandara</h1>
+
 ![](https://github.com/ashi-bandara/ashi-bandara/blob/main/GIF.gif)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashi-bandara&label=Profile%20views&color=0e75b6&style=flat" alt="ashi-bandara" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashi-bandara" alt="ashi-bandara" /></a> </p>
