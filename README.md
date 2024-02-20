@@ -6,7 +6,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashi-bandara" alt="ashi-bandara" /></a> </p>
 
-- 🔭 I’m currently working on **Pulse (A Discord Clone)**
+- 🔭 I’m currently working on **Pulse (A Discord Clone)** 
 
 - 🌱 I’m currently learning **React & Next.js**
 
